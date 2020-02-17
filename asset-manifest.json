@@ -1,28 +1,27 @@
 {
   "files": {
-    "main.css": "/e-portfolio/static/css/main.ce5a1cd0.chunk.css",
-    "main.js": "/e-portfolio/static/js/main.a5a73c2a.chunk.js",
-    "main.js.map": "/e-portfolio/static/js/main.a5a73c2a.chunk.js.map",
+    "main.css": "/e-portfolio/static/css/main.ccbdf851.chunk.css",
+    "main.js": "/e-portfolio/static/js/main.5e97d520.chunk.js",
+    "main.js.map": "/e-portfolio/static/js/main.5e97d520.chunk.js.map",
     "runtime-main.js": "/e-portfolio/static/js/runtime-main.510096c2.js",
     "runtime-main.js.map": "/e-portfolio/static/js/runtime-main.510096c2.js.map",
-    "static/js/2.049036dd.chunk.js": "/e-portfolio/static/js/2.049036dd.chunk.js",
-    "static/js/2.049036dd.chunk.js.map": "/e-portfolio/static/js/2.049036dd.chunk.js.map",
+    "static/js/2.c8165090.chunk.js": "/e-portfolio/static/js/2.c8165090.chunk.js",
+    "static/js/2.c8165090.chunk.js.map": "/e-portfolio/static/js/2.c8165090.chunk.js.map",
     "index.html": "/e-portfolio/index.html",
-    "precache-manifest.4a17fe62e69503e7107834fa5e6d947c.js": "/e-portfolio/precache-manifest.4a17fe62e69503e7107834fa5e6d947c.js",
+    "precache-manifest.319d3f95a9ed63761be392f58f57177b.js": "/e-portfolio/precache-manifest.319d3f95a9ed63761be392f58f57177b.js",
     "service-worker.js": "/e-portfolio/service-worker.js",
-    "static/css/main.ce5a1cd0.chunk.css.map": "/e-portfolio/static/css/main.ce5a1cd0.chunk.css.map",
+    "static/css/main.ccbdf851.chunk.css.map": "/e-portfolio/static/css/main.ccbdf851.chunk.css.map",
     "static/media/index.css": "/e-portfolio/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/contactMail.png": "/e-portfolio/static/media/contactMail.d6d4086f.png",
     "static/media/developerActivity.svg": "/e-portfolio/static/media/developerActivity.59389695.svg",
     "static/media/all.css": "/e-portfolio/static/media/fa-solid-900.c2801fb4.svg",
     "static/media/logo.svg": "/e-portfolio/static/media/logo.25bf045c.svg",
-    "static/media/manOnTable.svg": "/e-portfolio/static/media/manOnTable.52be3144.svg",
-    "static/media/TalkCard.css": "/e-portfolio/static/media/talksCardBack.0288c5ec.svg"
+    "static/media/manOnTable.svg": "/e-portfolio/static/media/manOnTable.52be3144.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.510096c2.js",
-    "static/js/2.049036dd.chunk.js",
-    "static/css/main.ce5a1cd0.chunk.css",
-    "static/js/main.a5a73c2a.chunk.js"
+    "static/js/2.c8165090.chunk.js",
+    "static/css/main.ccbdf851.chunk.css",
+    "static/js/main.5e97d520.chunk.js"
   ]
 }
