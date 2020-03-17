@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/e-portfolio/static/css/main.109eeb50.chunk.css",
-    "main.js": "/e-portfolio/static/js/main.776ffda8.chunk.js",
-    "main.js.map": "/e-portfolio/static/js/main.776ffda8.chunk.js.map",
+    "main.js": "/e-portfolio/static/js/main.f4fe6fac.chunk.js",
+    "main.js.map": "/e-portfolio/static/js/main.f4fe6fac.chunk.js.map",
     "runtime-main.js": "/e-portfolio/static/js/runtime-main.510096c2.js",
     "runtime-main.js.map": "/e-portfolio/static/js/runtime-main.510096c2.js.map",
-    "static/js/2.f75b4336.chunk.js": "/e-portfolio/static/js/2.f75b4336.chunk.js",
-    "static/js/2.f75b4336.chunk.js.map": "/e-portfolio/static/js/2.f75b4336.chunk.js.map",
+    "static/js/2.8a4da115.chunk.js": "/e-portfolio/static/js/2.8a4da115.chunk.js",
+    "static/js/2.8a4da115.chunk.js.map": "/e-portfolio/static/js/2.8a4da115.chunk.js.map",
     "index.html": "/e-portfolio/index.html",
-    "precache-manifest.860d17bb55cbe1591abe4f08d2a6b0f8.js": "/e-portfolio/precache-manifest.860d17bb55cbe1591abe4f08d2a6b0f8.js",
+    "precache-manifest.6652e1608e0d6c568d2d37658c2231e2.js": "/e-portfolio/precache-manifest.6652e1608e0d6c568d2d37658c2231e2.js",
     "service-worker.js": "/e-portfolio/service-worker.js",
     "static/css/main.109eeb50.chunk.css.map": "/e-portfolio/static/css/main.109eeb50.chunk.css.map",
     "static/media/index.css": "/e-portfolio/static/media/Montserrat-Regular.ee653992.ttf",
@@ -20,8 +20,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.510096c2.js",
-    "static/js/2.f75b4336.chunk.js",
+    "static/js/2.8a4da115.chunk.js",
     "static/css/main.109eeb50.chunk.css",
-    "static/js/main.776ffda8.chunk.js"
+    "static/js/main.f4fe6fac.chunk.js"
   ]
 }
